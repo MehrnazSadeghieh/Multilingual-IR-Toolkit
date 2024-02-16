@@ -1,11 +1,12 @@
-# Multilingual IR Toolki
+# Multilingual Information Retrieval Toolkit
 
 This project focuses on implementing various information retrieval techniques on Persian and English datasets. We perform preprocessing, compute TF, IDF, and TF-IDF, and implement cosine similarity and Jaccard coefficient for document-query pairs.
 
 ## Datasets
 
 - Persian Dataset: [Download here](https://github.com/mohamad-dehghani/persian-pdf-books-dataset/raw/master/final_books.xlsx)
-- English Dataset: (Will be uploaded to GitHub)
+- English Dataset: [Here](https://drive.google.com/drive/folders/1sypIfC03ZnnY9YmOffOYFIU3n5x95nuT)
+  you have to create a shortcut in your google drive account and mount it in your google colab.
 
 ## Preprocessing
 
